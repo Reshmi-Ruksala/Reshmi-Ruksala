@@ -2,7 +2,6 @@
 
 > A passionate **Data Science Student** | Full-Stack Developer | Designer | Creative Thinker  
 
-🌟 I love building **interactive web & mobile apps**, designing **beautiful UI/UX**, and exploring **data-driven solutions**.  
 
 ---
 
